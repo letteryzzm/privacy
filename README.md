@@ -1,6 +1,6 @@
 # Congcong Reader 隐私权政策
 
-**生效日期：2025年1月14日**
+**生效日期：2025年7月14日**
 
 ## 简介
 
@@ -94,8 +94,8 @@ Congcong Reader（"我们"、"本扩展"）是一个Chrome浏览器扩展，为�
 
 如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
 
-- GitHub Issues: [项目地址]
-- 邮箱: [您的联系邮箱]
+- GitHub Issues: [[项目地址](https://github.com/letteryzzm/privacy)]
+- 邮箱: [您的联系邮箱zhouzimu@ifech.io]
 
 ## 适用法律
 
